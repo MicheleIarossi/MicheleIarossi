@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @MicheleIarossi
-- 👀 I’m interested in embedded programming.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python projects.
-- 📫 How to reach me: micheleiarossi@gmail.com
+👋 Hi, I’m @MicheleIarossi
+
+I'm a seasoned software engineer with 15+ years of experience in the automotive sector, focusing on software development and integration. My expertise includes AUTOSAR, diagnostic protocols and embedded programming. I thrive on leading, mentoring and working with multicultural teams in complex and demanding environments to achieve results. I have strong communication skills in German, English, Italian, and French.
+
+My favourite quote:
+
+*Quelli che s'innamorano di pratica senza scienza son come il nocchiere, che entra in naviglio senza timone o bussola, che mai ha certezza dove si vada* - Leonardo da Vinci
+
+(He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast - Leonardo da Vinci)
 
 <!---
 MicheleIarossi/MicheleIarossi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
