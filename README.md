@@ -8,6 +8,10 @@ My favourite quote:
 
 (He who loves practice without theory is like the sailor who boards ship without a rudder and compass and never knows where he may cast - Leonardo da Vinci)
 
+You can download my one-page CV [here](https://link-url-here.org)
+
+📫 How to reach me: michele@mathsophy.com, micheleiarossi@gmail.com
+
 <!---
 MicheleIarossi/MicheleIarossi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
