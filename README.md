@@ -1,6 +1,6 @@
 👋 Hi, I’m @MicheleIarossi
 
-I'm a seasoned software engineer with 15+ years of experience in the automotive sector, focusing on embedded software development and integration. My expertise includes AUTOSAR, diagnostic protocols and embedded programming. I thrive on leading, mentoring and working with multicultural teams in complex and challenging projects. I have strong communication skills in German, English, Italian, and French.
+I'm a software engineer with 20 years of experience in embedded computing, focusing on embedded software development. My expertise includes classic AUTOSAR and diagnostic protocols (e.g. UDS). I thrive on leading, mentoring and working with multicultural teams. I have strong communication skills in German (C2), English (C2), French (B2) and Italian (native).
 
 My favourite quote:
 
