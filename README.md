@@ -10,7 +10,7 @@ My favourite quote:
 
 You can download my one-page CV [here](https://github.com/MicheleIarossi/CV/blob/main/cv.pdf)
 
-📫 How to reach me: michele@mathsophy.com, micheleiarossi@gmail.com
+📫 How to reach me: micheleiarossi@gmail.com
 
 <!---
 MicheleIarossi/MicheleIarossi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
